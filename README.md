@@ -38,12 +38,12 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-[website]: https://codeSTACKr.com
-[youtube]: https://youtube.com/codeSTACKr
+[website]: https://www.linkedin.com/in/ezhil-arasu-32730a11b/
+[youtube]: https://www.linkedin.com/in/ezhil-arasu-32730a11b/
 [twitter]: https://twitter.com/Ezhilar35019813
 [instagram]: https://www.instagram.com/e_z_h_i_l_9_6/
 [linkedin]: https://www.linkedin.com/in/ezhil-arasu-32730a11b/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[webdevplaylist]: https://www.linkedin.com/in/ezhil-arasu-32730a11b/
+[jsplaylist]: https://www.linkedin.com/in/ezhil-arasu-32730a11b/
+[cssplaylist]: https://www.linkedin.com/in/ezhil-arasu-32730a11b/
+[reactplaylist]: https://www.linkedin.com/in/ezhil-arasu-32730a11b/
