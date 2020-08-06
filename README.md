@@ -43,7 +43,3 @@
 [twitter]: https://twitter.com/Ezhilar35019813
 [instagram]: https://www.instagram.com/e_z_h_i_l_9_6/
 [linkedin]: https://www.linkedin.com/in/ezhil-arasu-32730a11b/
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]: 
-[reactplaylist]:
