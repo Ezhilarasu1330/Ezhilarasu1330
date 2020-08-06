@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on a Yaali Bizappln Solutions!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Leran new things
-- ⚡ Fact: I love to plant trees
+- 🥅 2020 Goals: Learn Angular & React
+- ⚡ Fact: I love to travel around the world
 
 ### Connect with me:
 
