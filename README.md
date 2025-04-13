@@ -1,10 +1,10 @@
 ### Hi there, I'm Ezhilarasu 👋
 
 ## I'm a Developer!
-- 🔭 I’m currently working on a Yaali Bizappln Solutions!
+- 🔭 I’m currently working on a Cognizant Technology Solutions!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn Angular & React
+- 🥅 2025 Goals: Learn Angular & React
 - ⚡ Fact: I love to travel around the world
 
 ### Connect with me:
